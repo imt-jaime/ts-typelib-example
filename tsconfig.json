@@ -4,6 +4,7 @@
     "target": "esnext",
     "moduleResolution": "node",
     "skipLibCheck": true,
+    "declaration": true,
     "strict": true,
     "isolatedModules": false,
     "esModuleInterop": true,
