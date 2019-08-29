@@ -1,6 +1,10 @@
 {
   "name": "ts-typelib-example",
+<<<<<<< HEAD
   "version": "2.0.0",
+=======
+  "version": "1.0.1",
+>>>>>>> first-version
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
